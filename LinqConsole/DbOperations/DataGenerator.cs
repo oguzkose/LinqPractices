@@ -22,7 +22,7 @@ namespace LinqConsole.DbOperations
                     },
                     new Student()
                     {
-                        Name = "Jane",
+                        Name = "James",
                         Surname = "Doe",
                         ClassId = 2
 
@@ -44,6 +44,12 @@ namespace LinqConsole.DbOperations
                         Name = "David",
                         Surname = "Bowie",
                         ClassId = 2
+                    },
+                    new Student()
+                    {
+                        Name="James",
+                        Surname="Hatfield",
+                        ClassId=3
                     }
 
 
