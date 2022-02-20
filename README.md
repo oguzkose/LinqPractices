@@ -1,5 +1,5 @@
 # LinqPractices
-* ToList() , ToList<Entity>()
+* ToList() , ToList< Entity >()
 ```csharp
     // ToList<entity>() veya ToList() Tüm veriyi List tipinde döner.
     var students = _context.Students.ToList<Student>();
